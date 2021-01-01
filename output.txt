@@ -1,8 +1,0 @@
-undefined
-{"name":"Transformer Oil Sampling VR Training","apkURL":"https://digitalengineeringmagic.com/download/vr-training/quest/master/TOS_VR_Training-arm64-es2.apk"}
-{"name":"Endangered Corroboree Frog","apkURL":"https://www.dropbox.com/s/iq1qmw0y9orvbpz/CorroboreeFrog0408a.apk?dl=1"}
-{"name":"You Are Two","itchURL":"https://yetunknown.itch.io/you-are-two","apkURL":"https://www.dropbox.com/s/qgkicq2xmic64ey/YAT0.2.0p.apk?dl=1"}
-undefined
-{"name":"Void Rifter","apkURL":"https://github.com/PieceByPieceDevelopment/VoidRifterQuestDemo/releases/download/v0.34a/VoidRifter_Demo_APK_0.34a.apk"}
-{"name":"Hover Quest","itchURL":"https://jasonofthestorm.itch.io/hoverquest","apkURL":"https://github.com/jasonofthestorm/SideQuest/releases/download/0.1.5/HoverQuestDemo_0.1.5.apk"}
-{"name":"Camp Magic","apkURL":"https://github.com/splicedvr/CampMagic/releases/download/0.0.7/MagicalForestQuest-Android-Shipping-arm64-es2.apk"}
