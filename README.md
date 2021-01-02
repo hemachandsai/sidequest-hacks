@@ -17,6 +17,11 @@
 ## Prerequisites
 - Install [NodeJS](https://nodejs.org/en/download/) along with [NPM](https://www.npmjs.com/)
 
+## Installation
+```
+cd project-directory
+npm install
+```
 ## How to use
 - Once Nodejs and NPM are installed you can run the main.js using node.
 ```
