@@ -1,5 +1,4 @@
-
-<center>
+<div align="center">
 
 # SIDEQUEST HACKS
 <img style="width: 150px" src="logo/logo.jpg">
@@ -8,7 +7,7 @@
 
 [Submit an issue](https://github.com/hemachandsai/sidequest-hacks/issues/new)
 
-</center>
+</div>
 <hr/>
 
 ## What is this project for?
