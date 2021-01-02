@@ -2,7 +2,8 @@
 
 # SIDEQUEST HACKS
 <img style="width: 150px" src="logo/logo.jpg">
-<p style="color: rgb(36, 41, 46, 0.8); font-size: 13.5px; text-align:center;margin: 0 30%;">Written with love for Virtual Reality&#129505;&#129505; Coded in Javascript&#128521;&#128536;&#128521
+<p style="color: rgb(36, 41, 46, 0.8); font-size: 13.5px; text-align:center;margin: 0 30%;">Written with love for Virtual Reality&#129505;&#129505;</p>
+<p style="color: rgb(36, 41, 46, 0.8); font-size: 13.5px; text-align:center;margin: 0 30%;">Coded in Javascript&#128521;&#128536;&#128521
 </p></br>
 
 [Submit an issue](https://github.com/hemachandsai/sidequest-hacks/issues/new)
